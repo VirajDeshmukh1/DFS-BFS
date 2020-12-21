@@ -1,4 +1,6 @@
 //BFS SOLUTION  
+// Time Complexity : O(M *N)
+// Space Complexity : O(1)
 
 class Solution {
     public int[][] updateMatrix(int[][] matrix) {
